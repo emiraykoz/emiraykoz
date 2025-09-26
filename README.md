@@ -3,7 +3,7 @@
 I'm Emiray, an aspiring software engineer from the United Kingdom.  
 ## **Contact details:**  
 - [emiray@noxia.cloud](mailto:emiray@noxia.cloud)
-## **Current Projects**
+## **Primary Projects**
 - [Noxia](https://github.com/NoxiaCloud), an upcoming hosting provider
 - [Noxia Ktrl](https://github.com/NoxiaCloud/), an open-source hosting control panel, built for [Noxia](https://github.com/NoxiaCloud)
 ## **Technologies**
