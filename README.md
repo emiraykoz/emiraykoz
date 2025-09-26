@@ -1,6 +1,6 @@
 [![Emiray's GitHub stats](https://github-readme-stats.vercel.app/api?username=emirayk)](https://github.com/anuraghazra/github-readme-stats)
 
-I'm Emiray, an aspiring software engineer from the United Kingdom.
+I'm Emiray, an aspiring software engineer from the United Kingdom.  
 Currently working on developing [Noxia](https://github.com/NoxiaCloud) & deepening my knowledge in Rust & Python
 ## **Contact details:**  
 - [emiray@noxia.cloud](mailto:emiray@noxia.cloud)
