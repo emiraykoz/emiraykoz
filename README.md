@@ -3,7 +3,8 @@
 I'm Emiray, an aspiring software engineer from the United Kingdom.  
 Currently working on developing [Noxia](https://github.com/NoxiaCloud) & deepening my knowledge in Rust & Python
 #### **Contact details:**  
-- [emiray@noxia.cloud](mailto:emiray@noxia.cloud)
+- **Email:** [emiray@noxia.cloud](mailto:emiray@noxia.cloud)
+- **Discord:** emirayk0 (1354574855416189212)
 #### **Primary Projects**
 - [Noxia](https://github.com/NoxiaCloud), an upcoming hosting provider
 - [Noxia Ktrl](https://github.com/NoxiaCloud/), an open-source hosting control panel, built for [Noxia](https://github.com/NoxiaCloud)
