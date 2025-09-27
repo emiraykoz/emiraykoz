@@ -7,6 +7,11 @@ Currently working on developing [Noxia](https://github.com/NoxiaCloud) & deepeni
 ## **Primary Projects**
 - [Noxia](https://github.com/NoxiaCloud), an upcoming hosting provider
 - [Noxia Ktrl](https://github.com/NoxiaCloud/), an open-source hosting control panel, built for [Noxia](https://github.com/NoxiaCloud)
+## Interests
+![](https://img.shields.io/badge/Software%20Engineering-363331?style=for-the-badge)
+![](https://img.shields.io/badge/Reverse%20Engineering-5e5654?style=for-the-badge)
+![](https://img.shields.io/badge/Electronics-5e5654?style=for-the-badge)\
+![](https://img.shields.io/badge/Cryptocurrency-3D3B3C?style=for-the-badge)
 ## **Languages**
 <sup>These are some languages that I either know, or am interested in / learning. I have utilized all of these in some way.</sup>  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -38,3 +43,4 @@ Currently working on developing [Noxia](https://github.com/NoxiaCloud) & deepeni
 ![Proxmox](https://img.shields.io/badge/proxmox-proxmox?style=for-the-badge&logo=proxmox&logoColor=%23E57000&labelColor=%232b2a33&color=%232b2a33)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+
