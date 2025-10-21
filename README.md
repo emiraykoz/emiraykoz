@@ -7,7 +7,7 @@ Currently working on developing [Noxia](https://github.com/NoxiaCloud) & deepeni
 - **Discord:** emirayk0 (1354574855416189212)
 #### **Primary Projects**
 - [Noxia](https://github.com/NoxiaCloud), an upcoming hosting provider
-- [Noxia Ktrl](https://github.com/NoxiaCloud/), an open-source hosting control panel, built for [Noxia](https://github.com/NoxiaCloud)
+- [Noxia Ktrl](https://github.com/NoxiaCloud/), an open-source hosting & billing control panel, built for [Noxia](https://github.com/NoxiaCloud)
 #### Interests
 ![](https://img.shields.io/badge/Software%20Engineering-363331?style=for-the-badge)
 ![](https://img.shields.io/badge/Electronics-5e5654?style=for-the-badge)
