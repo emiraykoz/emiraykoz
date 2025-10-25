@@ -1,10 +1,10 @@
-[![Emiray's GitHub stats](https://github-readme-stats.vercel.app/api?username=emirayk)](https://github.com/anuraghazra/github-readme-stats)
+[![Emiray's GitHub stats](https://github-readme-stats.vercel.app/api?username=emiraykoz)](https://github.com/anuraghazra/github-readme-stats)
 
 I'm Emiray, an aspiring software engineer from the United Kingdom.  
 Currently working on developing [Noxia](https://github.com/NoxiaCloud) & deepening my knowledge in Rust & Python
 #### **Contact details:**  
 - **Email:** [emiray.koz@noxia.cloud](mailto:emiray.koz@noxia.cloud)
-- **Discord:** emirayk0 (1354574855416189212)
+- **Discord:** emiraykoz (1354574855416189212)
 #### **Primary Projects**
 - [Noxia](https://github.com/NoxiaCloud), a modern hosting provider where control meets clarity.
 #### Interests
