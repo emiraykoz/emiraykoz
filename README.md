@@ -5,19 +5,20 @@ Currently working on developing [Noxia](https://github.com/NoxiaCloud) & deepeni
 
 ---
 
-#### **Contact details:**  
+#### Contact details
 - **Email:** [emiray.koz@noxia.cloud](mailto:emiray.koz@noxia.cloud)
 - **Discord:** emiraykoz `1354574855416189212`
   
 ---
 
-#### **Current Projects**
+#### Current Projects
 - [Noxia](https://github.com/NoxiaCloud), a modern hosting provider where control meets clarity.
   
 ---
 
-#### **Languages & Technologies**
-<sup>These are some languages & technologies I've worked around (or am learning / interested in)</sup>  
+#### Languages & Technologies
+These are some languages & technologies I've worked around (or am learning / interested in)
+<br><br>
 <img src="https://skillicons.dev/icons?i=python,lua,js,html,css,cs,rust,docker,linux,robloxstudio,vscode,visualstudio,cloudflare,figma,nodejs,tailwind,tauri,flask" />
 
 ---
