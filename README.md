@@ -1,4 +1,4 @@
-[![Emiray's GitHub stats](https://github-readme-stats-liart-gamma-80.vercel.app/api?username=emiraykoz&theme=github_dark_dimmed&hide_border=true&cache_seconds=0)](https://github.com/anuraghazra/github-readme-stats)
+[![Emiray's GitHub stats](https://github-readme-stats-liart-gamma-80.vercel.app/api?username=emiraykoz&theme=github_dark_dimmed&hide_border=true&cache_seconds=0&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 ### Emiray Koz
 I'm Emiray, an aspiring software engineer from the United Kingdom.  
 Currently working on developing [Noxia](https://github.com/NoxiaCloud) & deepening my knowledge in Rust & Python
