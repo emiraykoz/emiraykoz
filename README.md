@@ -26,7 +26,7 @@ Currently building **[Noxia](https://github.com/NoxiaCloud)** while deepening my
 | HTML               | Proficient   |
 | CSS                | Proficient   |
 | C#                 | Intermediate |
-| Lua / Luau         | Intermediate |
+| Lua / Luau         | Beginner     |
 | Python             | Beginner     |
 | C                  | Learning     |
 | C++                | Learning     |
