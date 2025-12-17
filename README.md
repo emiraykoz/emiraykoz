@@ -29,8 +29,9 @@ Currently building **[Noxia](https://github.com/NoxiaCloud)** while deepening my
 | Lua / Luau         | Beginner     |
 | Python             | Beginner     |
 | C                  | Learning     |
-| C++                | Learning     |
 | Assembly (x86/x64) | Learning     |
+| C++                | Learning     |
+| Rust               | Learning     |
 
 ---
 
