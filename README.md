@@ -19,7 +19,7 @@ Currently building **[Noxia](https://github.com/NoxiaCloud)** while deepening my
 
 ### Technical Skillset
 
-#### Languages & Proficiency
+#### Languages
 
 | Language           | Level        |
 | ------------------ | ------------ |
