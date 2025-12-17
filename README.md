@@ -43,7 +43,7 @@ Currently building **[Noxia](https://github.com/NoxiaCloud)** while deepening my
 ### Contact
 
 * **Email:** [emiray.koz@noxia.cloud](mailto:emiray.koz@noxia.cloud)
-* **Discord:** emiraykoz (`1354574855416189212`)
+* **Discord:** emiraykoz `1354574855416189212`
 
 ---
 
@@ -55,3 +55,5 @@ Currently building **[Noxia](https://github.com/NoxiaCloud)** while deepening my
 | ETH     | `0xaA16F56283D86aCa36312fFf16Ba685121304061` |
 | LTC     | `LSWb8DnarRvPU7bzEV1onHALdeb7q1RuT6`         |
 | XRP     | `rEpc34V19diK99MGfCv5pALEmsyQQKFSRs`         |
+| SOL     | `3LeL1faDZp7xoUKNsWfxBgPxHW4vq2r6A7bBzfYpD3gm`|
+| USDT    | `0xaA16F56283D86aCa36312fFf16Ba685121304061` |
