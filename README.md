@@ -6,7 +6,7 @@ Aspiring software developer based in the United Kingdom, with a strong focus on 
 
 I am fluent in English and plan to learn German, Turkish & potentially Abkhaz in the future.
 
-Currently building **[Noxia](https://github.com/NoxiaCloud)** while deepening my expertise in reverse engineering & software development.
+Currently building **[Noxia](https://noxia.cloud)** while deepening my expertise in reverse engineering & software development.
 
 ---
 
@@ -39,7 +39,7 @@ Currently building **[Noxia](https://github.com/NoxiaCloud)** while deepening my
 
 ### Current Projects
 
-* **[Noxia](https://github.com/NoxiaCloud)**, a modern hosting provider where control meets clarity
+* **[Noxia](https://noxia.cloud)**, a modern hosting provider where control meets clarity
 
 ---
 
