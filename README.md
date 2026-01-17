@@ -4,7 +4,7 @@
 
 Aspiring software developer based in the United Kingdom, with a strong focus on cloud infrastructure, hosting platforms & low-level software analysis.
 
-I am fluent in English and plan to learn German, Turkish & potentially Abkhaz in the future.
+I am fluent in English and want to learn German, Turkish & potentially Abkhaz in the future.
 
 Currently building **[Noxia](https://noxia.cloud)** while deepening my expertise in reverse engineering & software development.
 
