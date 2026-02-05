@@ -14,7 +14,6 @@ Currently building **[Noxia](https://noxia.cloud)** while deepening my expertise
 
 * ☁️ **Cloud & Hosting** - platform tooling, control panels, automation, scalability
 * 🛠️ **Reverse Engineering** - binary analysis, debugging, memory inspection
-* 🎮 **Game Hacking / Anti-Cheat Research** - understanding protections and internals
 * ⚙️ **Low-Level Development** - performance-focused and systems-level code
 
 ---
@@ -28,9 +27,9 @@ Currently building **[Noxia](https://noxia.cloud)** while deepening my expertise
 | HTML               | Proficient   |
 | CSS                | Proficient   |
 | C#                 | Intermediate |
-| Lua / Luau         | Beginner     |
-| Python             | Beginner     |
-| C                  | Learning     |
+| Lua / Luau         | Intermediate |
+| Python             | Intermediate |
+| C                  | Beginner     |
 | Assembly (x86/x64) | Learning     |
 | C++                | Learning     |
 | Rust               | Learning     |
@@ -52,11 +51,11 @@ Currently building **[Noxia](https://noxia.cloud)** while deepening my expertise
 
 ### Cryptocurrency
 
-| Network | Address                                      |
-| ------- | -------------------------------------------- |
-| BTC     | `bc1q97n52ewzt4wsj0ugu7trgaez3ghckjtxwj4wsa` |
-| ETH     | `0xaA16F56283D86aCa36312fFf16Ba685121304061` |
-| LTC     | `LSWb8DnarRvPU7bzEV1onHALdeb7q1RuT6`         |
-| XRP     | `rEpc34V19diK99MGfCv5pALEmsyQQKFSRs`         |
-| SOL     | `3LeL1faDZp7xoUKNsWfxBgPxHW4vq2r6A7bBzfYpD3gm`|
-| USDT    | `0xaA16F56283D86aCa36312fFf16Ba685121304061` |
+| Network | Address                                        |
+| ------- | ---------------------------------------------- |
+| BTC     | `bc1q97n52ewzt4wsj0ugu7trgaez3ghckjtxwj4wsa`   |
+| ETH     | `0xaA16F56283D86aCa36312fFf16Ba685121304061`   |
+| LTC     | `LSWb8DnarRvPU7bzEV1onHALdeb7q1RuT6`           |
+| XRP     | `rEpc34V19diK99MGfCv5pALEmsyQQKFSRs`           |
+| SOL     | `3LeL1faDZp7xoUKNsWfxBgPxHW4vq2r6A7bBzfYpD3gm` |
+| USDT    | `0xaA16F56283D86aCa36312fFf16Ba685121304061`   |
