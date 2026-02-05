@@ -15,7 +15,6 @@ Currently building **[Noxia](https://noxia.cloud)** while deepening my expertise
 * ☁️ **Cloud & Hosting** - platform tooling, control panels, automation, scalability
 * 🛠️ **Reverse Engineering** - binary analysis, debugging, memory inspection
 * ⚙️ **Low-Level Development** - performance-focused and systems-level code
-* 🤖 **Skidding from ChatGPT** - because I'm IP banned from stackoverflow, and I don't know why
 
 ---
 
