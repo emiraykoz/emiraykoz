@@ -22,17 +22,14 @@ Currently building **[Noxia](https://noxia.cloud)** while deepening my expertise
 
 #### Languages
 
-| Language           | Level        |
-| ------------------ | ------------ |
-| HTML               | Proficient   |
-| CSS                | Proficient   |
-| C#                 | Intermediate |
-| Lua / Luau         | Intermediate |
-| Python             | Intermediate |
-| C                  | Beginner     |
-| Assembly (x86/x64) | Learning     |
-| C++                | Learning     |
-| Rust               | Learning     |
+| Language           | Level               |
+| ------------------ | ------------------- |
+| HTML               | Proficient          |
+| CSS                | Proficient          |
+| C#                 | Intermediate        |
+| Lua / Luau         | Intermediate        |
+| Python             | Intermediate        |
+| C/C++              | Beginner / Learning |
 
 ---
 
