@@ -35,6 +35,7 @@ Currently building **[Noxia](https://noxia.cloud)** while deepening my expertise
 
 ### Current Projects
 
+* **[My Website](https://emiray.uk)**
 * **[Noxia](https://noxia.cloud)**, a modern hosting provider where control meets clarity
 
 ---
