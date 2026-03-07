@@ -6,7 +6,7 @@ Aspiring software developer based in the United Kingdom, with a strong focus on 
 
 I am fluent in English and want to learn German, Turkish & potentially Abkhaz in the future.
 
-Currently building **[Noxia](https://noxia.cloud)** while deepening my expertise in reverse engineering & software development.
+Currently building **[Rackway](https://rackway.net)** while deepening my expertise in reverse engineering & software development.
 
 ---
 
@@ -35,19 +35,19 @@ Currently building **[Noxia](https://noxia.cloud)** while deepening my expertise
 
 ### Current Projects
 
-* **[My Website](https://emiray.uk)**
-* **[Noxia](https://noxia.cloud)**, a modern hosting provider where control meets clarity
+* **[My personal website](https://emiray.uk)**
+* **[Rackway](https://rackway.net)**, a modern hosting provider where control meets clarity
 
 ---
 
 ### Contact
 
-* **Email:** [emiray.koz@noxia.cloud](mailto:emiray.koz@noxia.cloud)
+* **Email:** [koz@emiray.uk](mailto:koz@emiray.uk)
 * **Discord:** emiraykoz `1354574855416189212`
 
 ---
 
-### Cryptocurrency
+### Cryptocurrencies
 
 | Network | Address                                        |
 | ------- | ---------------------------------------------- |
