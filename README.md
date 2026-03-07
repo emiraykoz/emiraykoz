@@ -2,18 +2,18 @@
 
 ### Emiray Koz
 
-Aspiring software developer based in the United Kingdom, with a strong focus on cloud infrastructure, hosting platforms & low-level software analysis.
+Aspiring software developer based in the United Kingdom, with a strong focus on cloud infrastructure, hosting platforms & low-level software development.
 
 I am fluent in English and want to learn German, Turkish & potentially Abkhaz in the future.
 
-Currently building **[Rackway](https://rackway.net)** while deepening my expertise in reverse engineering & software development.
+Currently building **[Rackway](https://rackway.net)** while deepening my expertise in software development.
 
 ---
 
 ### Areas of Interest
 
-* ☁️ **Cloud & Hosting** - platform tooling, control panels, automation, scalability
-* 🛠️ **Reverse Engineering** - binary analysis, debugging, memory inspection
+* ☁️ **Cloud Infrastructure** - platform tooling, control panels, automation, scalability
+* ⚡ **Backend & REST APIs** - high-throughput, low-latency APIs and server-side architecture.
 * ⚙️ **Low-Level Development** - performance-focused and systems-level code
 
 ---
@@ -42,7 +42,7 @@ Currently building **[Rackway](https://rackway.net)** while deepening my experti
 
 ### Contact
 
-* **Email:** [koz@emiray.uk](mailto:koz@emiray.uk)
+* **Email:** [emiray.koz@rackway.net](mailto:emiray.koz@rackway.net)
 * **Discord:** emiraykoz `1354574855416189212`
 
 ---
