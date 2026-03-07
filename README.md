@@ -4,8 +4,6 @@
 
 Aspiring software developer based in the United Kingdom, with a strong focus on cloud infrastructure, hosting platforms & low-level software development.
 
-I am fluent in English and want to learn German, Turkish & potentially Abkhaz in the future.
-
 Currently building **[Rackway](https://rackway.net)** while deepening my expertise in software development.
 
 ---
