@@ -24,9 +24,9 @@ Currently building **[Rackway](https://rackway.net)** while deepening my experti
 | ------------------ | ------------------- |
 | HTML               | Proficient          |
 | CSS                | Proficient          |
+| C#                 | Intermediate        |
 | Lua / Luau         | Intermediate        |
 | Python             | Intermediate        |
-| C#                 | Beginner            |
 | C/C++              | Beginner / Learning |
 
 ---
