@@ -2,7 +2,7 @@
 
 ### Emiray Koz
 
-Aspiring software developer based in the United Kingdom, with a strong focus on cloud infrastructure, hosting platforms & low-level software development.
+Software developer based in the United Kingdom, with a strong focus on cloud infrastructure, hosting platforms & UI design.
 
 Currently building **[Rackway](https://rackway.net)** while deepening my expertise in software development.
 
@@ -10,9 +10,10 @@ Currently building **[Rackway](https://rackway.net)** while deepening my experti
 
 ### Areas of Interest
 
-* ☁️ **Cloud Infrastructure** - platform tooling, control panels, automation, scalability
-* ⚡ **Backend & REST APIs** - high-throughput, low-latency APIs and server-side architecture.
-* ⚙️ **Low-Level Development** - performance-focused and systems-level code
+☁️ **Cloud Infrastructure** – platform tooling, control panels, automation, scalability  
+⚡ **Backend & REST APIs** – high-throughput, low-latency APIs and server-side architecture, primarily in Flask or .NET  
+🎨 **Web Design** – responsive, accessible layouts using modern HTML/CSS with a focus on usability and cross-device consistency  
+📱 **Application UI Design** – intuitive interface design, component-based layouts, and user-centric interaction patterns, primarily in .NET
 
 ---
 
@@ -24,7 +25,7 @@ Currently building **[Rackway](https://rackway.net)** while deepening my experti
 | ------------------ | ------------------- |
 | HTML               | Proficient          |
 | CSS                | Proficient          |
-| C#                 | Intermediate        |
+| C#/.NET            | Intermediate        |
 | Lua / Luau         | Intermediate        |
 | Python             | Intermediate        |
 | C/C++              | Beginner / Learning |
