@@ -1,6 +1,6 @@
 [![Emiray's GitHub stats](https://github-readme-stats-liart-gamma-80.vercel.app/api?username=emiraykoz\&theme=github_dark_dimmed\&hide_border=true\&cache_seconds=0\&title_color=FFFFFF\&show_icons=true\&icon_color=434d58)](https://github.com/anuraghazra/github-readme-stats)
 
-### Emiray Koz
+# [Emiray Koz](https://emiray.uk/)
 
 Software developer based in the United Kingdom, with a strong focus on cloud infrastructure, hosting platforms & UI design.
 
@@ -32,9 +32,8 @@ Currently building **[Rackway](https://rackway.net)** while deepening my experti
 
 ---
 
-### Current Projects
+### Primary Projects
 
-* **[My personal website](https://emiray.uk)**
 * **[Rackway](https://rackway.net)**, a modern hosting provider where control meets clarity
 
 ---
