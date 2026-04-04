@@ -1,13 +1,31 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using System.Reflection.Metadata.Ecma335;
 using Microsoft.AspNetCore.Mvc;
+using node_daemon.Infrastructure;
 
-namespace node_daemon.Controllers.Health
+namespace node_daemon.Controllers;
+
+[ApiController]
+[Route("health")]
+public class HealthController : ControllerBase
 {
-    [Route("health/ping")]
-    [ApiController]
-    public class Ping : ControllerBase
+    private readonly ContainerEngineService containerEngine;
+
+    public HealthController(ContainerEngineService containerEngineService)
     {
-        [HttpGet]
-        public IActionResult Get() => Content("Pong!", "text/plain");
+        containerEngine = containerEngineService;
+    }
+
+    [HttpGet("live")]
+    public IActionResult Live() => Ok("OK");
+
+    [HttpGet("ready")]
+    public async Task<IActionResult> Ready()
+    {
+        var status = await containerEngine.StatusAsync();
+
+        if (!((dynamic)status).Online)
+            return StatusCode(503, status);
+
+        return Ok(status);
     }
 }

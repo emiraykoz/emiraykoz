@@ -1,6 +1,12 @@
+using DotNetEnv;
+
+Env.Load(); // Initialize environment variables.
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+
+builder.Services.AddSingleton<node_daemon.Infrastructure.ContainerEngineService>();
 
 builder.Services.AddControllers();
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
