@@ -6,7 +6,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
-builder.Services.AddSingleton<node_daemon.Infrastructure.ContainerEngineService>();
+builder.Services.AddSingleton<node_daemon.Infrastructure.PodmanService>();
 
 builder.Services.AddControllers();
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
