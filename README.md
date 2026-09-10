@@ -5,8 +5,6 @@ I am a software engineer from the UK who enjoys building things that live on the
 - [Website](https://emiray.uk)
 - [Email](mailto:emiray.koz@virtnox.com)
 - [Matrix](https://matrix.to/#/@koz:emiray.uk)
-- [Bluesky](https://bsky.app/profile/emiray.uk)
-- [Reddit](https://www.reddit.com/user/emirayuk/)
 ## Skills
 | Area | Description |
 | --- | --- |
@@ -17,6 +15,4 @@ I am a software engineer from the UK who enjoys building things that live on the
 ## Projects
 To view my projects, please visit my [website](https://emiray.uk).
 ## Professional experience
-| Company | Tenure | Role Description |
-| --- | --- | --- |
-| [Virtnox](https://virtnox.com) | 2025-Present | I founded Virtnox and serve as its Director, CEO, and lead software developer - hands-on across every part of the business. |
+To view my professional experience, please visit my [website](https://emiray.uk).
